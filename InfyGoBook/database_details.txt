@@ -1,0 +1,18 @@
+Create database table ith userid as primary key
+     userid	password	name	 city	       email	                phone
+	C1005	Venky1234	Venky	Kadapa	Venky@gmail.com	            9898989898
+	C1009	Veky1234	Venky	Victory	Venky@gmail.com	            9898989898
+	
+
+
+Sample Request
+{
+	
+	"userId":"C1009",
+	"password":"Veky",
+	"name":"Venky",
+	"city":"Victory",
+	"email":"venky@gmail.com",
+	"phone":"9898989898"
+}
+						
